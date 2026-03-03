@@ -12,3 +12,7 @@ Evaluate structural, demographic, and academic factors associated with district-
     - [Report Card Database (~270MB)](https://data.nysed.gov/files/essa/24-25/SRC2025.zip)
     - [Enrollment Database (~7MB)](https://data.nysed.gov/files/enrollment/24-25/ENROLLMENT_2025.zip)
     - [Graduation Rate Database (~8MB)](https://data.nysed.gov/files/gradrate/24-25/gradrate.zip)
+
+## Research Questions
+
+1. Is there a correlation between graduation rates and number of economically disadvantaged students in each district?

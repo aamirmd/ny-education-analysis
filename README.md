@@ -31,4 +31,8 @@ The relationship is as expected - higher graduation rate correlates with lower p
 
 ![Grad rate vs percent ecdis](./results/grad_rate_VS_per_ecdis.png)
 
-### 2. What are the grade distributions for charter vs non-charter schools in each subject (ridgeline plot)?
+### 2. What are the grade distributions for charter vs non-charter schools in each subject? Which school type is better?
+
+It is hard to tell which is better because of the stark contrast in sample sizes (see [`@/notebooks/03_exploratory_analysis.ipynb`](./notebooks/03_exploratory_analysis.ipynb)) and external factors like student demographics and school location. However, we can say that charter school proficiency rates are more spread out and uneven compared to that of district schools.
+
+![Proficiency rate violin plot distribution per subject for district schools vs charter schools](./results/charter_vs_noncharter_PER_PROF.png)
